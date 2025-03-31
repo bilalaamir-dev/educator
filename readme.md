@@ -37,7 +37,7 @@ Educator is a modern, responsive frontend website designed for online learning a
 
 ## Live Demo
 
-[Educator Website Live Demo](https://bilalaamir-dev.github.io/educator/) *(Replace with actual link if available.)*
+[Educator Website Live Demo](https://bilalaamir-dev.github.io/educator/)
 
 ## Contribution
 
